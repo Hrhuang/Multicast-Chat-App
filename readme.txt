@@ -1,1 +1,1 @@
-This is a simple multicast chat app.
+This is a simple multicast chat app. Run "MServer.py" on a server first, then run "MClient.py" on a client computer. Have to change the ip address in the code first though.
